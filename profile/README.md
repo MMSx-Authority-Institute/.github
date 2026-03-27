@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://mmsxauthority.com/assets/images/mmsx_logo3.png" width="90" alt="MMSx Authority Logo"/>
+<img src="[https://mmsxauthority.com/assets/images/mmsx_logo3.png](https://raw.githubusercontent.com/MMSx-Authority-Institute/.github/refs/heads/main/profile/logo.png)" width="90" alt="MMSx Authority Logo"/>
 
 <h1>MMSx Authority Institute</h1>
 
