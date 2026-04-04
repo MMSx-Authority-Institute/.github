@@ -66,7 +66,7 @@ All public repositories, open datasets, registered studies, and framework archiv
 |---|---|
 | 🏛️ **Organization GitHub** | [github.com/MMSx-Authority-Institute](https://github.com/MMSx-Authority-Institute) |
 | 🌐 **MMSx Hub** | [mmsxauthority.com](https://mmsxauthority.com) |
-| 🌐 **Research Institute** | [mmsxauthority.org](http://mmsxauthority.org) |
+| 🌐 **Research Institute** | [mmsxauthority.org](https://mmsxauthority.org) |
 | 📖 **Journal (JMMBS)** | [jmmbs.org](https://jmmbs.org) |
 | 🏛️ **Standards (IMSO)** | [imso-global.org](https://imso-global.org) |
 | 📬 **Contact** | [info@mmsxauthority.com](mailto:info@mmsxauthority.com) |
