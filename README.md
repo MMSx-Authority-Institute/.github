@@ -65,8 +65,8 @@ All public repositories, open datasets, registered studies, and framework archiv
 | | Link |
 |---|---|
 | 🏛️ **Organization GitHub** | [github.com/MMSx-Authority-Institute](https://github.com/MMSx-Authority-Institute) |
-| 🌐 **MMSx Hub** | [mmsxauthority.com](https://mmsxauthority.com) |
-| 🌐 **Research Institute** | [mmsxauthority.org](https://mmsxauthority.org) |
+| 🌐 **MMSx Institute Hub** | [mmsxauthority.com](https://mmsxauthority.com) |
+| 🌐 **MMSx Research Portal** | [mmsxauthority.org](https://mmsxauthority.org) |
 | 📖 **Journal (JMMBS)** | [jmmbs.org](https://jmmbs.org) |
 | 🏛️ **Standards (IMSO)** | [imso-global.org](https://imso-global.org) |
 | 📬 **Contact** | [info@mmsxauthority.com](mailto:info@mmsxauthority.com) |
@@ -84,7 +84,8 @@ All public repositories, open datasets, registered studies, and framework archiv
 **This is the admin account · All research content lives at the organization →**
 
 [![Organization](https://img.shields.io/badge/MMSx--Authority--Institute-Organization_Profile-1a56c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MMSx-Authority-Institute)
-[![Website](https://img.shields.io/badge/mmsxauthority.com-0f2d6b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mmsxauthority.com)
+[![Website](https://img.shields.io/badge/mmsxauthority.com-0f2d6b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mmsxauthority.com)Institute)
+[![Website](https://img.shields.io/badge/mmsxauthority.org-0f2d6b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mmsxauthority.org) Research Portal)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6200--8495-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6200-8495)
 
 </div>
